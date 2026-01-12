@@ -64,20 +64,6 @@ Este projeto foi criado para:
 
 ---
 
-##  Visualização
-
-### [ Ver Demo ao Vivo](https://seu-usuario.github.io/silva-andrade-advogados)
-
-Ou clone e abra localmente:
-
-```bash
-git clone https://github.com/seu-usuario/silva-andrade-advogados.git
-cd silva-andrade-advogados
-open index.html  # ou simplesmente abra o arquivo no navegador
-```
-
----
-
 ##  Estrutura
 
 ```
@@ -185,7 +171,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ```
 MIT License
 
-Copyright (c) 2025 Herbert
+Copyright (c) 2025 [Herbert Sorg Ludka]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -228,9 +214,9 @@ Este projeto demonstra:
 
 ##  Autor
 
-**[Seu Nome]**
+**[Herbert Sorg Ludka]**
 
--  Portfolio: [Portfólio](https://luddevergard3n.github.io/Portifolio/)
+-  Portfolio: [Portfolio](https://luddevergard3n.github.io/Portfolio/)
 -  LinkedIn: [Herbert Sorg Ludka](https://www.linkedin.com/in/herbertbr-sorg-ludka/)
 -  GitHub: [@LuddEvergard3n](https://github.com/LuddEvergard3n)
 -  Email: hbrslud@gmail.com
@@ -263,15 +249,6 @@ Se você encontrou este projeto e está buscando serviços jurídicos reais, por
 
 ---
 
-##  Contato (Real)
-
-Para discussões sobre este projeto, oportunidades de trabalho ou colaborações:
-
--  Email: seu-email@email.com
--  LinkedIn: Herbert Sorg Ludka (https://www.linkedin.com/in/herbertbr-sorg-ludka/)
-
----
-
 ##  Changelog
 
 ### v1.0.0 (Janeiro 2026)
@@ -286,8 +263,6 @@ Para discussões sobre este projeto, oportunidades de trabalho ou colaborações
 ---
 
 **Desenvolvido com  para demonstração de portfólio**
-
----
 
 ---
 
