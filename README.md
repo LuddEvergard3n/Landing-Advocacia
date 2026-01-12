@@ -185,7 +185,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ```
 MIT License
 
-Copyright (c) 2025 [Seu Nome]
+Copyright (c) 2025 Herbert
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -230,10 +230,10 @@ Este projeto demonstra:
 
 **[Seu Nome]**
 
--  Portfolio: [seu-portfolio.com](https://seu-portfolio.com)
--  LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
--  GitHub: [@seu-usuario](https://github.com/seu-usuario)
--  Email: seu-email@email.com
+-  Portfolio: [Portfólio](https://luddevergard3n.github.io/Portifolio/)
+-  LinkedIn: [Herbert Sorg Ludka](https://www.linkedin.com/in/herbertbr-sorg-ludka/)
+-  GitHub: [@LuddEvergard3n](https://github.com/LuddEvergard3n)
+-  Email: hbrslud@gmail.com
 
 ---
 
@@ -268,7 +268,7 @@ Se você encontrou este projeto e está buscando serviços jurídicos reais, por
 Para discussões sobre este projeto, oportunidades de trabalho ou colaborações:
 
 -  Email: seu-email@email.com
--  LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
+-  LinkedIn: Herbert Sorg Ludka (https://www.linkedin.com/in/herbertbr-sorg-ludka/)
 
 ---
 
@@ -288,13 +288,6 @@ Para discussões sobre este projeto, oportunidades de trabalho ou colaborações
 **Desenvolvido com  para demonstração de portfólio**
 
 ---
-
-##  Links Úteis
-
-- [Ver Demo ao Vivo](https://seu-usuario.github.io/silva-andrade-advogados)
-- [Repositório GitHub](https://github.com/seu-usuario/silva-andrade-advogados)
-- [Meu Portfólio](https://seu-portfolio.com)
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
 
 ---
 
